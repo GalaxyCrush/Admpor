@@ -1,0 +1,33 @@
+Process Statistics: 
+     Client: 0 received 1 operation (s)! 
+     Client: 1 received 2 operation (s)! 
+     Intermediary: 0 received 2 operation (s)! 
+     Intermediary: 1 received 1 operation (s)! 
+     Enterprise: 0 received 2 operation (s)! 
+     Enterprise: 1 received 1 operation (s)! 
+Request Statistics: 
+Request: 0
+Status: E
+Intermediary id: 0
+Enterprise id: 0
+Start time: 6-6-2023 14:49:50. 37
+Intermediary time: 6-6-2023 14:49:50. 37
+Enterp time: 6-6-2023 14:49:50. 37
+Total time: 0.000
+ Request: 1
+Status: E
+Intermediary id: 1
+Enterprise id: 0
+Start time: 6-6-2023 14:49:53.794
+Intermediary time: 6-6-2023 14:49:53.794
+Enterp time: 6-6-2023 14:49:53.794
+Total time: 0.000
+ Request: 2
+Status: A
+Intermediary id: 0
+Enterprise id: 1
+Start time: 6-6-2023 14:49:56.847
+Intermediary time: 6-6-2023 14:49:56.847
+Enterp time: 6-6-2023 14:49:56.847
+Total time: 0.000
+ 
