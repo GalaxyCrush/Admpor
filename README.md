@@ -1,12 +1,12 @@
-# Trabalho no âmbito da disciplina de Sistemas Operativos
+## Work within the scope of the Operating Systems subject
 
-## Trabalho realizado por:
+## Work carried out by:
 
 - João Pereira @fc58189
 - André Reis @fc58192
 - Daniel Nunes @fc58257
 
-### Foram usadas as seguintes tecnologias: 
+### The following technologies were used: 
 
 - C
 - WSL
@@ -14,14 +14,16 @@
 - GDB
 - POSIX
 
-Este trabalho foi feito para a parte teórico-prática de Sistemas Operativos qm o objetivo é simulal um porto que recebe operação de clientes e as processa para empresas, passando por intermediários.
+This work was done for the theoretical-practical part of Operating Systems with the aim of simulating a port that receives transactions from customers and processes them for companies, passing through intermediaries.
 
-Para compilar o programa segue-se as seguintes instuções:
-Dentro da pasta ADMPOR execute os seguintes comandos por ordem:
+To compile the programme, follow these instructions:
+Inside the ADMPOR folder run the following commands in order:
 
-1. make clean(vai limpar os ficheiros .o, executavel e de log e estatisticas)
-2. make (onde vai gerar os ficheiros .o e executavel)
+1. make clean(will clean the .o, executable and log and statistics files)
+2. make (which will generate the .o and executable files)
 3. cd bin
-4. ./admpor input.txt (substituir os argumentos pelos numeros desejados que no caso é o ficheiro com os inputs).
+4. ./admpor input.txt (replace the arguments with the desired numbers, which in this case is the file with the inputs).
 
-O projeto foi testado e realizado utilizando o sistema WSL com Ubunto, no IDE VSCode.
+The project was tested and realised using the WSL system with Ubunto, in the VSCode IDE.
+
+The final grade was 18.3/20.
