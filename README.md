@@ -26,4 +26,4 @@ Inside the ADMPOR folder run the following commands in order:
 
 The project was tested and realised using the WSL system with Ubunto, in the VSCode IDE.
 
-The final grade was 18.3/20.
+The final grade of this work was 18.3/20.
